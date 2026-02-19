@@ -1,0 +1,28 @@
+# Data collection
+PyMuPDF>=1.23.0
+pdfplumber>=0.10.0
+biopython>=1.81
+requests>=2.31.0
+
+# Text embeddings (scientific papers)
+sentence-transformers>=2.2.0
+
+# Image embeddings (CLIP)
+transformers>=4.35.0
+torch>=2.0.0
+Pillow>=10.0.0
+
+# Vector database
+chromadb>=0.4.0
+
+# LLM & orchestration
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.10
+
+# Interface
+streamlit>=1.28.0
+
+# Config & utils
+python-dotenv>=1.0.0
+numpy>=1.24.0

@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project data (papers, figures, vector DB)
+data/papers/
+data/figures/
+data/chroma/
+*.pdf
