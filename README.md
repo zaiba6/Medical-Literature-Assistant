@@ -93,10 +93,6 @@ Edit `scripts/evaluate.py`: set `expected_papers` for each test query (paper IDs
 python -m scripts.evaluate
 ```
 
-## Resume bullet (example)
-
-> **Multimodal RAG for Medical Literature** — Built retrieval-augmented pipeline combining SPECTER text embeddings and CLIP image embeddings over neuroscience papers in ChromaDB; LangChain + GPT-4 for answers to text/image/both queries; Streamlit UI for researchers.
-
 ## License
 
 MIT.
